@@ -8,15 +8,3 @@
 </figure>
 
 <p> Projeto desenvolvido no curso Explorer da <a href="app.rocketseat.com.br">RocketSeat</a> </p>
-
-<style>
-h1 {
-    font-size: 24px;
-    color: rbga(0, 0, 0, 1);
-    text-decoration: none;
-}
-h2 {
-    font-size: 18px;
-    color: #7879F1;
-}
-</style>
